@@ -1,6 +1,7 @@
 # SOA reading list
 
-### Books by Thomas Erl (2405 pages)
+### Books by Thomas Erl 
+**Page count: 2405**
 
 * [Service-Oriented Architecture: A Field Guide to Integrating XML and Web Services](https://www.amazon.com/gp/product/0131428985/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i9) (560 pages)
 * [Web Service Contract Design and Versioning for SOA](https://www.amazon.com/gp/product/B004XVIWVG/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8) (848 pages)
