@@ -8,6 +8,12 @@
 * [SOA Design Patterns](https://www.amazon.com/gp/product/B00139VU0Q/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3) (800 pages)
 * [Next Generation SOA: A Real-World Guide to Modern Service-Oriented Computing](https://www.amazon.com/gp/product/B00P2JSPPQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2) (197 pages)
 
+### Martin Fowler Books
+**Total Pages: 944**
+
+* [Patterns of Enterprise Application Architecture](https://www.amazon.com/gp/product/0321127420/ref=dbs_a_def_rwt_bibl_vppi_i2) (560 pages)
+* [Analysis Patterns: Reusable Object Models](https://www.amazon.com/gp/product/B0186FU89I/ref=dbs_a_def_rwt_bibl_vppi_i8) (384 pages)
+
 ### O'Reilly Books
 **Total Pages: 1108**
 
@@ -15,12 +21,6 @@
 * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4/ref=pd_sim_351_2) (280 pages)
 * [Web Services Essentials: Distributed Applications with XML-RPC, SOAP, UDDI & WSDL](https://www.amazon.com/Web-Services-Essentials-Distributed-Applications-ebook/dp/B0093T2B7E/ref=sr_1_9) (308 pages)
 * [Java Message Service: Creating Distributed Enterprise Applications](https://www.amazon.com/Java-Message-Service-Distributed-Applications-ebook/dp/B002MV2Z3K/ref=sr_1_11) (330 pages)
-
-### Martin Fowler Books
-**Total Pages: 944**
-
-* [Patterns of Enterprise Application Architecture](https://www.amazon.com/gp/product/0321127420/ref=dbs_a_def_rwt_bibl_vppi_i2) (560 pages)
-* [Analysis Patterns: Reusable Object Models](https://www.amazon.com/gp/product/B0186FU89I/ref=dbs_a_def_rwt_bibl_vppi_i8) (384 pages)
 
 ### Open-Source Examples
 
