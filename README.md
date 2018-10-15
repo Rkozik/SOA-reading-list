@@ -28,5 +28,7 @@
 ### Open-Source Examples
 
 ### Research Papers
+* [A Research Agenda for Service-Oriented Architecture (SOA): Maintenance and Evolution of Service-Oriented Systems](http://www.dtic.mil/dtic/tr/fulltext/u2/a522530.pdf) 
+* [Quality Attributes and Service-Oriented Architectures](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2005_004_001_14489.pdf)
 
 ### Related Academics
