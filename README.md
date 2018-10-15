@@ -22,6 +22,9 @@
 * [Web Services Essentials: Distributed Applications with XML-RPC, SOAP, UDDI & WSDL](https://www.amazon.com/Web-Services-Essentials-Distributed-Applications-ebook/dp/B0093T2B7E/ref=sr_1_9) (308 pages)
 * [Java Message Service: Creating Distributed Enterprise Applications](https://www.amazon.com/Java-Message-Service-Distributed-Applications-ebook/dp/B002MV2Z3K/ref=sr_1_11) (330 pages)
 
+### Whitepapers
+* [Migrating to a service-oriented architecture](ftp://129.35.224.15/software/info/openenvironment/G224-7298-00_Final.pdf)
+
 ### Open-Source Examples
 
 ### Research Papers
