@@ -25,6 +25,7 @@
 ### Whitepapers
 * [IBM: Migrating to a service-oriented architecture](http://129.35.224.15/software/info/openenvironment/G224-7298-00_Final.pdf)
 * [IBM: Service-oriented modeling and architecture (SOMA)](https://www.ibm.com/developerworks/library/ws-soa-design1/index.html)
+* [The RUP Update for Service-Oriented Architecture](http://www.michael-richardson.com/processes/rup_classic/soa.rup_soma/guidances/whitepapers/the_rup_update_for_service-oriented_architecture_329FB318.html)
 
 ### Open-Source Examples
 
