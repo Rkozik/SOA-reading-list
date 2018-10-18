@@ -33,5 +33,6 @@
 * [Quality Attributes and Service-Oriented Architectures](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2005_004_001_14489.pdf)
 * [Pervasive Service Architecture for a Digital Business Ecosystem](https://arxiv.org/pdf/cs/0408047.pdf)
 * [A Review of SOA Modeling Approaches for Enterprise Information Systems](https://core.ac.uk/download/pdf/82710561.pdf)
+* [Model-driven Software Migration into a Service-oriented Architecture](https://www.uni-koblenz.de/~ist/documents/Fuhr2009MSM1.pdf)
 
 ### Related Academics
